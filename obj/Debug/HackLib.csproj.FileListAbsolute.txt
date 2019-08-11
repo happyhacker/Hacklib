@@ -1,0 +1,8 @@
+Z:\Data\dev\Projects\dotNet\HackLib\bin\Debug\HackLib.dll
+Z:\Data\dev\Projects\dotNet\HackLib\bin\Debug\HackLib.pdb
+Z:\Data\dev\Projects\dotNet\HackLib\bin\Debug\System.Web.Mvc.dll
+Z:\Data\dev\Projects\dotNet\HackLib\obj\Debug\HackLib.csprojAssemblyReference.cache
+Z:\Data\dev\Projects\dotNet\HackLib\obj\Debug\HackLib.csproj.CoreCompileInputs.cache
+Z:\Data\dev\Projects\dotNet\HackLib\obj\Debug\HackLib.csproj.CopyComplete
+Z:\Data\dev\Projects\dotNet\HackLib\obj\Debug\HackLib.dll
+Z:\Data\dev\Projects\dotNet\HackLib\obj\Debug\HackLib.pdb

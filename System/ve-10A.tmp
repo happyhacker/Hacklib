@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace HackLib.System {
+  public static class Math {
+
+    /// <summary>Round a whole number down, e.g., 2369 to 2360, 2300, or 2000 </summary>
+    /// <param name="number"></param>
+    /// <param name="pos">ten, hundreds, thousands position, etc. e.g. 10, 100, 1000</param>
+    /// <returns></returns>
+    public static int RoundDown(int number, int pos) {
+      int remainder;
+      int adjuster = 0;
+
+      number = ((int)(number / (pos/10))) * (pos);
+      remainder = number % 3;
+      if (remainder > 0) {
+        adjuster = remainder * 10;
+      }
+      number -= adjuster;
+      return number;
+    }
+   }
+}
