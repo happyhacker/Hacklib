@@ -1,0 +1,11 @@
+.DS_store
+*.dll
+*.tmp
+*.cache
+obj/*
+bin/*
+bin/debug/*
+bin/debug/*
+*.tmp
+*.dll
+*.cache
